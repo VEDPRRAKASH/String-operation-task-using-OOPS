@@ -1,0 +1,12 @@
+INFO 2022-07-04 17:01:02,228 root The given string for the operation of reversing is vedprakash
+INFO 2022-07-04 17:01:02,228 root The reversed string is hsakarpdev
+INFO 2022-07-04 17:01:20,985 root The given string for the operation of reversing is vedprakash
+INFO 2022-07-04 17:01:20,985 root The reversed string is hsakarpdev
+INFO 2022-07-04 17:01:44,621 root The given string for the operation of reversing is 123
+ERROR 2022-07-04 17:01:44,629 root 'int' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\VIMAL\PycharmProjects\Task (2nd July)\Task.py", line 15, in rev_str
+    s2= s[::-1]
+TypeError: 'int' object is not subscriptable
+INFO 2022-07-04 17:02:27,810 root The given string for the operation of reversing is ved12
+INFO 2022-07-04 17:02:27,810 root The reversed string is 21dev
